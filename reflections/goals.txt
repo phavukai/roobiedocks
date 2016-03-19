@@ -1,0 +1,7 @@
+My goals as ruby developer are following:
+be able to make functioning and cool websites
+build dashboards and fill them with data from Zabbix example
+realize new ways to use ruby/ruby on rails
+my dream job would be something with sysadmin/networkadmin things
+a project I have righ now is to build my website to show my skills in networking
+

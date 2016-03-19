@@ -1,0 +1,4 @@
+Im a ICT engineer student and I have networking as major.
+I have done some courses in object-oriented programming.
+I have working experience as sysadmin/netadmin + I have dappled in ruby on rails
+

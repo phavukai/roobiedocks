@@ -1,0 +1,2 @@
+I have done some dashboards with ruby on rails but found it challenging and did not completely understand how everything worked.
+I want to use an API to fetch information and display it on website, how is this done?

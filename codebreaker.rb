@@ -9,6 +9,7 @@ code = "M.E?CIQN E?RS, D?NA EQC,IN S,,I Z?TQAM,"
 # | |
 # --------------------------------------------------------------- All your code should go between these lines! 
 # ========================
-code = code.reverse.chop.reverse.insert(11,"A EW? O").delete("Q?,").downcase.reverse.capitalize puts code
+code = code.reverse.chop.reverse.insert(11,"A EW? O").delete("Q?,").downcase.reverse.capitalize
+puts code
 # ========================
 # What a nice passcode.
